@@ -40,10 +40,10 @@ nav:after{
 }
 nav ul{
     float: left;
-    padding-left: 30%;
+    padding-left: 24%;
     /* width:480px; */
     /* margin:auto; */
-    width: 70%;
+    width: 78%;
     list-style-type:none;
     border-right: 2px solid grey;
 
@@ -160,11 +160,28 @@ nav > button{
     width: 100%;
 }
 #a2{
-    float: left;
+    float: right;
     background-color: white;
     width: 30%;
 }
 #a2 img{
     display: block;
     width: 100%;
+}
+#a3{
+    float: right;
+    background-color: white;
+    width: 30%;
+}
+#a3 img{
+    display: block;
+    width: 100%;
+}
+
+/* ****************************************** MAIN ARTICLE **************************************** */
+
+.mainArticle img{
+    display: block;
+    width: 100%;
+    margin: auto;
 }
